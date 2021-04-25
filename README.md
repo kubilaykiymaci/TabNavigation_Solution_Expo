@@ -4,9 +4,7 @@ Hello, it is simple nesting tab navigation example with react-native Carousel co
 You can run project via below commands
 
 1- yarn instal
-2- cd ios && pod install
-3- cd .. && yarn start
-4- npx react-native run-ios or npx react-native run-android
+2- yarn ios or yarn android
 
 Thanks..
 
